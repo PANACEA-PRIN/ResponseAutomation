@@ -9,7 +9,9 @@ Repository Katharange: https://github.com/g4br-i/KathaRange
   
 ### Getting Started
 Eseguire lo script nella cartella radice di Katharange.
-    ./init.sh
+```
+ ./init.sh
+```
 
 Quando l'installazione è completata, andare nella cartella:
 ```
