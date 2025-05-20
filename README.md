@@ -1,3 +1,5 @@
+## A component for automating the deployment of Caldera Blue Agents triggered by Wazuh events
+
 ## 🐳 Build & Run
 
 Per costruire l'immagine Docker e avviare il contenitore:
