@@ -13,7 +13,7 @@ Eseguire lo script nella cartella radice di Katharange.
  ./init.sh
 ```
 
-Quando l'installazione è completata, andare nella cartella:
+Quando l'installazione è completata, posizionarsi nella cartella:
 ```
 cd lab
 kathara lstart
