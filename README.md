@@ -31,7 +31,7 @@ sudo docker run -it --network host blue_deploy
 
 ## ⏱️ Esecuzione con variabile d'ambiente
 
-È possibile specificare un valore per SLEEP_TIME tramite variabile d'ambiente:
+È possibile specificare un valore per SLEEP_TIME tramite variabile d'ambiente che rappresenta il tempo di attesa in secondi prima di effettuare un nuovo controllo sugli alert di Wazuh (Valore di default: 10s):
 
 ```bash
 sudo docker run -it --network host -e SLEEP_TIME=15 blue_deploy
